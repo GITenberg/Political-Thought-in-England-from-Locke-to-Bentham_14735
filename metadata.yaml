@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5656'
     url: http://www.gutenberg.org/2009/agents/5656
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14735#Political-Thought-in-England-from-Locke-to-Bentham
 gutenberg_bookshelf:
 - Politics
 - United Kingdom
