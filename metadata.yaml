@@ -1,0 +1,31 @@
+_repo: Political-Thought-in-England-from-Locke-to-Bentham_14735
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Laski, Harold Joseph
+    birthdate: 1893
+    deathdate: 1950
+    gutenberg_agent_id: '5656'
+    url: http://www.gutenberg.org/2009/agents/5656
+description: ''
+gutenberg_bookshelf:
+- Politics
+- United Kingdom
+gutenberg_issued: '2005-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14735'
+  lccn: '20014002'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Home University Library of Modern Knowledge, No. 103
+subjects:
+- !lcc 'JA'
+- !lcsh 'Political science -- Great Britain -- History'
+title: Political Thought in England from Locke to Bentham
+url: http://www.gutenberg.org/ebooks/14735
